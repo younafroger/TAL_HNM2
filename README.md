@@ -3,7 +3,7 @@
 Dépôt GitHub permettant la transmission des rendus dans le cadre du cours de Traitement Automatique des Langues
 Année 2024-2025 du master Humanités Numériques 2ème année
 
-Participants : Froger Youna, Guyde Alice, Quais Mathis.
+Participants : Froger Youna, Gyde Alice, Quais Mathis.
 Enseignant : Gonzalez-Gallardo Carlos-Emiliano.
 
 Format des rendus : notebook Jupyter + rapport au format PDF
